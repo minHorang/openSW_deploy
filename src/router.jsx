@@ -68,6 +68,7 @@ const router = createBrowserRouter([
         element: <AuctionCompleted />,
       },
     ],
+    basename: process.env.PUBLIC_URL,
   },
 ]);
 
