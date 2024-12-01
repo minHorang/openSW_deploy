@@ -68,7 +68,6 @@ const router = createBrowserRouter([
         element: <AuctionCompleted />,
       },
     ],
-    basename: process.env.PUBLIC_URL, // 여기에서 basename 설정
   },
 ]);
 
