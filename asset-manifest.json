@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/openSW_deploy/static/css/main.6188c408.css",
-    "main.js": "/openSW_deploy/static/js/main.98aa9c3f.js",
+    "main.js": "/openSW_deploy/static/js/main.26d40c41.js",
     "static/media/BannerEx.png": "/openSW_deploy/static/media/BannerEx.e732df4ba7b06c054cdd.png",
     "static/media/fa-solid-900.ttf": "/openSW_deploy/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
     "static/media/fa-brands-400.ttf": "/openSW_deploy/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
@@ -16,10 +16,10 @@
     "static/media/fa-v4compatibility.woff2": "/openSW_deploy/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
     "index.html": "/openSW_deploy/index.html",
     "main.6188c408.css.map": "/openSW_deploy/static/css/main.6188c408.css.map",
-    "main.98aa9c3f.js.map": "/openSW_deploy/static/js/main.98aa9c3f.js.map"
+    "main.26d40c41.js.map": "/openSW_deploy/static/js/main.26d40c41.js.map"
   },
   "entrypoints": [
     "static/css/main.6188c408.css",
-    "static/js/main.98aa9c3f.js"
+    "static/js/main.26d40c41.js"
   ]
 }
